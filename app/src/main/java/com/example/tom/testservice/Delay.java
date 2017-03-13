@@ -17,7 +17,7 @@ import android.util.Log;
 /**
  * Created by TOM on 2017/3/13.
  */
-
+//註解
 public class Delay extends Service{
     Runnable runnable;
     Handler handler;
